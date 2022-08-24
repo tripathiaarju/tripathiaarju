@@ -2,7 +2,7 @@
 - 👀 I’m working as a full stack developer...
 - 🌱 Learning is a never-ending cycle...
 - 💞️ I’m there to learn and explore things ..
-- 📫 Email- aarjutripathi@gmail.com Contact - 9501165978
+- 📫 Email- aarjutripathi@gmail.com 
 <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=aarjutripathi" target="_blank">Follow on LinkedIn</a>
 <!---
 tripathiaarju/tripathiaarju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
